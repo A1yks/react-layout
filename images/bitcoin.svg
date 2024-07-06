@@ -1,0 +1,27 @@
+<svg width="312.000000" height="352.000000" viewBox="0 0 312 352" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_64_183_dd" x="3.000000" y="-14.000000" width="306.145996" height="379.965820" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="6" result="effect_layerBlur_1"/>
+		</filter>
+		<clipPath id="clip64_182">
+			<rect id="Bitcoin" rx="-0.500000" width="311.000000" height="351.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip64_182)">
+		<g filter="url(#filter_64_183_dd)">
+			<path id="Rectangle 13 (Stroke)" d="M148.78 148.08L188.95 160.55C203.86 165.18 219.69 156.85 224.32 141.94C228.95 127.04 220.62 111.2 205.71 106.58L165.55 94.1L148.78 148.08ZM262.09 153.67C273.2 117.91 253.21 79.91 217.44 68.8L139.5 44.6L99.28 174.12L177.22 198.33C212.99 209.43 250.99 189.44 262.09 153.67Z" fill="#3A3656" fill-opacity="1.000000" fill-rule="evenodd"/>
+			<path id="Rectangle 14 (Stroke)" d="M117.5 248.82L155.27 260.55C171.5 265.59 188.74 256.51 193.78 240.29C198.82 224.06 189.75 206.81 173.52 201.77L135.75 190.05L117.5 248.82ZM231.55 252.02C243.07 214.92 222.34 175.52 185.25 164L109.71 140.54L68 274.86L143.54 298.32C180.63 309.84 220.04 289.11 231.55 252.02Z" fill="#3A3656" fill-opacity="1.000000" fill-rule="evenodd"/>
+			<path id="Rectangle 28" d="M78.55 240.85L68.12 274.43L30.07 262.61L40.5 229.03L78.55 240.85Z" fill="#3A3656" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="Rectangle 26" d="M139.49 44.6L129.06 78.18L91.01 66.36L101.44 32.78L139.49 44.6Z" fill="#3A3656" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="Rectangle 32" d="M177.98 56.55L144.68 46.21L153.62 17.42L186.92 27.76L177.98 56.55Z" fill="#3A3656" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="Rectangle 34" d="M97.54 315.6L64.24 305.26L73.18 276.47L106.47 286.81L97.54 315.6Z" fill="#3A3656" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="Rectangle 31" d="M227.27 71.85L193.98 61.51L202.91 32.73L236.21 43.07L227.27 71.85Z" fill="#3A3656" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="Rectangle 33" d="M146.83 330.9L113.54 320.56L122.48 291.78L155.77 302.12L146.83 330.9Z" fill="#3A3656" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+	</g>
+</svg>
