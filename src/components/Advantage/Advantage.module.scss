@@ -1,0 +1,18 @@
+.advantage {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.value {
+    font-size: clamp(28px, 8.5vw, 48px);
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+    color: rgb(var(--white-color-rgb));
+}
+
+.label {
+    font-size: clamp(14px, 4vw, 18px);
+    color: rgba(var(--white-color-rgb), 0.3);
+}

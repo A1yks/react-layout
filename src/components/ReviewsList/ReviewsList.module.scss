@@ -1,0 +1,16 @@
+.reviews {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    width: 400px;
+
+    & > li:nth-child(odd) {
+        align-self: flex-end;
+    }
+}
+
+@media screen and (max-width: $lg) {
+    .reviews {
+        width: 300px;
+    }
+}

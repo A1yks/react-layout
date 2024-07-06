@@ -1,0 +1,38 @@
+@font-face {
+    font-family: Teko;
+    src: url('/fonts/Teko.ttf') format('truetype');
+}
+
+:root {
+    --gradient: linear-gradient(135deg, rgba(124, 111, 207, 0.97) 0%, rgba(116, 174, 170, 0.95) 49.13%, #6fcf97 100%);
+    --gray-color: #828282;
+    --black-color: #1c1a1a;
+    --dark-grey-color: #302d2d57;
+    // В макете используется разная прозрачность для этого цвета, поэтому переменная задана как rgb
+    --white-color-rgb: 242, 242, 242;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    font-family: Teko, sans-serif;
+    background: var(--black-color);
+}
+
+body,
+#root {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+
+ul {
+    list-style: none;
+}
